@@ -22,6 +22,7 @@ To start server in terminal write node server.js or nodemon server.js
 By default server runs on http://localhost:8080
 
 You can test the API using Postman, curl, or any API client.
+Have Provided a text.txt file which has json data can be used to test api in postman
 
 Create-quiz Api
 For creating quiz where we give name and id to our quiz 
@@ -132,6 +133,7 @@ Reason for Choice:
 Keeps the backend focused on CRUD operations only.
 
 Easier to extend in the future with authentication or database support.
+
 
 
 
