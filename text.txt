@@ -1,0 +1,57 @@
+[
+  {
+    "question": [
+      { "id": "q1", "text": "Which animal is known as the King of the Jungle?" }
+    ],
+    "options": [
+      { "optId": "q1o1", "text": "Elephant", "correct": false },
+      { "optId": "q1o2", "text": "Lion", "correct": true },
+      { "optId": "q1o3", "text": "Tiger", "correct": false },
+      { "optId": "q1o4", "text": "Cheetah", "correct": false }
+    ]
+  },
+  {
+    "question": [
+      { "id": "q2", "text": "Which animal is the largest mammal on Earth?" }
+    ],
+    "options": [
+      { "optId": "q2o1", "text": "African Elephant", "correct": false },
+      { "optId": "q2o2", "text": "Blue Whale", "correct": true },
+      { "optId": "q2o3", "text": "Giraffe", "correct": false },
+      { "optId": "q2o4", "text": "Whale Shark", "correct": false }
+    ]
+  },
+  {
+    "question": [
+      { "id": "q3", "text": "Which bird is a universal symbol of peace?" }
+    ],
+    "options": [
+      { "optId": "q3o1", "text": "Eagle", "correct": false },
+      { "optId": "q3o2", "text": "Pigeon", "correct": false },
+      { "optId": "q3o3", "text": "Dove", "correct": true },
+      { "optId": "q3o4", "text": "Parrot", "correct": false }
+    ]
+  },
+  {
+    "question": [
+      { "id": "q4", "text": "Which animal is the fastest land animal?" }
+    ],
+    "options": [
+      { "optId": "q4o1", "text": "Cheetah", "correct": true },
+      { "optId": "q4o2", "text": "Horse", "correct": false },
+      { "optId": "q4o3", "text": "Leopard", "correct": false },
+      { "optId": "q4o4", "text": "Greyhound", "correct": false }
+    ]
+  },
+  {
+    "question": [
+      { "id": "q5", "text": "Which animal is known to have a pouch to carry its young?" }
+    ],
+    "options": [
+      { "optId": "q5o1", "text": "Kangaroo", "correct": true },
+      { "optId": "q5o2", "text": "Panda", "correct": false },
+      { "optId": "q5o3", "text": "Koala", "correct": false },
+      { "optId": "q5o4", "text": "Camel", "correct": false }
+    ]
+  }
+]
